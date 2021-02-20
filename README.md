@@ -1,6 +1,24 @@
--  Hi, I’m incon
--  I program for fun
-<!---
-reoccur/reoccur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# hihi im incon, nice to meet you uwu
+<div style='font-size:1.2em'>
+	<b>;)</b>
+	<br>
+
+</div>
+
+<br>
+
+<center>
+<a href="https://github.com/Phew">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phew&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="charge's stats" />
+</a>
+<br><br>
+<a href="https://github.com/Phew?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phew&langs_count=8&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<br>
+<br>
+<hr>
+
+<img src="https://komarev.com/ghpvc/?username=Phew&style=flat-square">
+
+</center>
