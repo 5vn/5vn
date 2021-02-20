@@ -5,9 +5,10 @@
 <h1>
 I'm a Tech Student, Bug Bounty hunter, Developer, and software engineer!
   </h1>
- <h2🔭 I’m currently working on a few projects. will be posting most of them!
-     </h2>
-<h3🌱 I’m currently learning x86asm
+ <h2>
+          🔭 I’m currently working on a few projects. will be posting most of them!
+                </h2>
+<h3>🌱 I’m currently learning x86asm
           </h3>
 
 ### Connect with me:
