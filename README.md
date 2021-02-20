@@ -1,12 +1,11 @@
 ### Hi there, I'm incon - 👋
-![uwu!](http://31.media.tumblr.com/tumblr_m4jvtvI0un1rui0a2o1_500.gif)
+<p align="left">
+  <img src="http://31.media.tumblr.com/tumblr_m4jvtvI0un1rui0a2o1_500.gif" width="350" title="hover text">
+</p>
 ## I'm a Tech Student, Bug Bounty hunter, Developer, and software engineer!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🔭 I’m currently working on a few projects. will be posting most of them!
+- 🌱 I’m currently learning x86asm
 
 ### Connect with me:
 
