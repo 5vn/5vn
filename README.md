@@ -13,6 +13,8 @@
 [<img align="left" alt="incon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="incon | 0sec" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg" />][website]
 [<img align="left" alt="incon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="incon | Email" width="22px" src="<div>Icons made by <a href="https://www.flaticon.com/authors/alfredo-hernandez" title="Alfredo Hernandez">Alfredo Hernandez</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" />][instagram]
+
 
 <br />
 
