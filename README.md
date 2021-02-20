@@ -13,7 +13,7 @@
 [<img align="left" alt="incon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="incon | 0sec" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg" />][website]
 [<img align="left" alt="incon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="incon | Instagram" width="22px" src="<img src="https://img.icons8.com/pastel-glyph/64/000000/email--v1.png"/>][instagram]
+[<img align="left" alt="incon | webmail" width="22px" src="https://img.icons8.com/pastel-glyph/64/000000/email--v1.png" />][webmail]
 
 
 <br />
@@ -94,3 +94,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [website]: https://0sec.systems/
 [twitter]: https://twitter.com/bloodbeings
 [instagram]: https://www.instagram.com/japanophobia/
+[webmail]: https://vulns@waifu.club
