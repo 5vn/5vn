@@ -16,8 +16,6 @@
 </a>
 <br>
 <br>
-<hr>
-
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FI7Q3mhyW2CcFO%2Fgiphy.gif&f=1&nofb=1">
 
 </center>
