@@ -2,8 +2,9 @@
 <p align="left">
   <img src="http://31.media.tumblr.com/tumblr_m4jvtvI0un1rui0a2o1_500.gif" width="350" title="hover text">
 </p>
-### I'm a Tech Student, Bug Bounty hunter, Developer, and software engineer!
-
+<p2
+I'm a Tech Student, Bug Bounty hunter, Developer, and software engineer!
+</p2>
 - 🔭 I’m currently working on a few projects. will be posting most of them!
 - 🌱 I’m currently learning x86asm
 
