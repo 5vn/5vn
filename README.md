@@ -13,7 +13,7 @@
 [<img align="left" alt="incon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="incon | 0sec" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg" />][website]
 [<img align="left" alt="incon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="incon | Email" width="22px" src="https://www.flaticon.com/authors/alfredo-hernandez" />][instagram]
+[<img align="left" alt="incon | Instagram" width="22px" src="<img src="https://img.icons8.com/pastel-glyph/64/000000/email--v1.png"/>][instagram]
 
 
 <br />
